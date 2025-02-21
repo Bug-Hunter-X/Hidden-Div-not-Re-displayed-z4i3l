@@ -1,0 +1,1 @@
+This repository demonstrates a common yet easily missed HTML/JavaScript bug.  A div element is hidden using JavaScript, but no code exists to make it visible again. This leads to unexpected user behavior. The solution provides a simple fix to re-enable the element's visibility.
